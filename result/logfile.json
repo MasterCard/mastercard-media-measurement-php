@@ -1,0 +1,22 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 1
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\MediaMeasurement\\MediaMeasurementsTest",
+    "tests": 1
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\MediaMeasurement\\MediaMeasurementsTest",
+    "test": "MasterCard\\Api\\MediaMeasurement\\MediaMeasurementsTest::test_example_media_measurement"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\MediaMeasurement\\MediaMeasurementsTest",
+    "test": "MasterCard\\Api\\MediaMeasurement\\MediaMeasurementsTest::test_example_media_measurement",
+    "status": "pass",
+    "time": 1.3710780143738,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

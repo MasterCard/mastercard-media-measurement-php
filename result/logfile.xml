@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Application Test Suite" tests="2" assertions="31" failures="0" errors="0" time="0.792309">
+    <testsuite name="MasterCard\Api\MediaMeasurement\MediaMeasurementsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MediaMeasurement2-Php/workspace/generated-code/media-measurement/php/sdk/Test/MasterCard/Api/MediaMeasurement/MediaMeasurementsTest.php" tests="1" assertions="19" failures="0" errors="0" time="0.517323">
+      <testcase name="test_example_media_measurement" class="MasterCard\Api\MediaMeasurement\MediaMeasurementsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MediaMeasurement2-Php/workspace/generated-code/media-measurement/php/sdk/Test/MasterCard/Api/MediaMeasurement/MediaMeasurementsTest.php" line="51" assertions="19" time="0.517323"/>
+    </testsuite>
+    <testsuite name="MasterCard\Api\MediaMeasurement\SubscriptionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MediaMeasurement2-Php/workspace/generated-code/media-measurement/php/sdk/Test/MasterCard/Api/MediaMeasurement/SubscriptionsTest.php" tests="1" assertions="12" failures="0" errors="0" time="0.274986">
+      <testcase name="test_example_subscriptions" class="MasterCard\Api\MediaMeasurement\SubscriptionsTest" file="/jenkins/jobs/Mastercard_Open_Api/jobs/MC-MediaMeasurement2-Php/workspace/generated-code/media-measurement/php/sdk/Test/MasterCard/Api/MediaMeasurement/SubscriptionsTest.php" line="51" assertions="12" time="0.274986"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

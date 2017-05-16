@@ -1,0 +1,6 @@
+MasterCard\Api\MediaMeasurement\MediaMeasurements
+ [x] example media measurement
+
+MasterCard\Api\MediaMeasurement\Subscriptions
+ [x] example subscriptions
+

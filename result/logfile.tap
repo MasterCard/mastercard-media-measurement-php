@@ -1,0 +1,4 @@
+TAP version 13
+ok 1 - MasterCard\Api\MediaMeasurement\MediaMeasurementsTest::test_example_media_measurement
+ok 2 - MasterCard\Api\MediaMeasurement\SubscriptionsTest::test_example_subscriptions
+1..2
